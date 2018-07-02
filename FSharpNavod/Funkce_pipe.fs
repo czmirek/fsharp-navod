@@ -1,0 +1,1 @@
+﻿module Funkce_pipe

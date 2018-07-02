@@ -6,6 +6,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="todo.md" />
+    <None Include="README.md" />
+    <Compile Include="Output.fs" />
+    <Compile Include="Komentare.fs" />
+    <Compile Include="Hodnoty.fs" />
+    <Compile Include="TypovaKonverze.fs" />
+    <Compile Include="Typy_Record.fs" />
+    <Compile Include="Typy_Enum.fs" />
+    <Compile Include="Typy_Union.fs" />
+    <Compile Include="Typy_Tuple.fs" />
+    <Compile Include="Funkce_zaklad.fs" />
+    <Compile Include="Funkce_partialApplication.fs" />
+    <Compile Include="Funkce_unit.fs" />
+    <Compile Include="Funkce_lambda.fs" />
+    <Compile Include="Funkce_operator.fs" />
+    <Compile Include="Funkce_compose.fs" />
+    <Compile Include="Funkce_pipe.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

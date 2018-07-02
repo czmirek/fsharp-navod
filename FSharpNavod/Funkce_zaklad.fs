@@ -1,4 +1,4 @@
-﻿module Funkce1
+﻿module Funkce_zaklad
 
 //definice funkce
 let přičtiJedničku číslo = číslo + 1

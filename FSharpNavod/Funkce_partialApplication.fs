@@ -1,4 +1,4 @@
-﻿module Funkce2
+﻿module Funkce_partialApplication
 
 //Opakování z Funkce1.fs
 let sečtiČísla sčítanec1 sčítanec2 = sčítanec1 + sčítanec2

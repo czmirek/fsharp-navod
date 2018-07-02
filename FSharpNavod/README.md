@@ -6,7 +6,9 @@ rozhodl jsem se naučit se svůj první funkcionální (funkční? fungující? 
 ) jazyk F#.
 
 Obsahem této repo není vyloženě návod. Vlastně to není ani pokus o návod. Jsou to spíš moje poznámky
-k tomu, co jsem se o F# doposud naučil.
+k tomu, co jsem se o F# doposud naučil a jak jsem interpretoval návody různě po internetu.
+
+Text návodu je přímo ve zdrojácích F# solutiony v tomto repozitáři.
 
 Zdroje:
 - https://fsharpforfunandprofit.com/
